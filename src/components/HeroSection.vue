@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { MessageSquare, ArrowRight } from '@lucide/vue'
+import { ArrowRight } from '@lucide/vue'
 </script>
 
 <template>
