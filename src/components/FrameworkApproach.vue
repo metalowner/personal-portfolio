@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { Users2, MessageSquareIcon, Target } from 'lucide-vue-next'
+import { Users2, MessageSquareIcon, Target } from '@lucide/vue'
 </script>
 
 <template>

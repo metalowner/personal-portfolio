@@ -3,7 +3,7 @@ import HeroSection from './components/HeroSection.vue'
 import ServicesList from './components/ServicesList.vue'
 import FrameworkApproach from './components/FrameworkApproach.vue'
 import CaseStudies from './components/CaseStudies.vue'
-import { Sparkles } from 'lucide-vue-next'
+import { Sparkles } from '@lucide/vue'
 </script>
 
 <template>

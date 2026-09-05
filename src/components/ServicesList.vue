@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { BarChart3, Globe, ShieldCheck, PieChart } from 'lucide-vue-next'
+import { BarChart3, Globe, ShieldCheck, PieChart } from '@lucide/vue'
 
 const services = [
   {
